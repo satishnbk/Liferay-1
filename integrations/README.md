@@ -1,2 +1,2 @@
-# Liferay
-This repository includes all liferay projects.
+# Integrations
+This repository includes all liferay third party integrations.
