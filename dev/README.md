@@ -1,2 +1,2 @@
-# Liferay
-This repository includes all liferay projects.
+# Development
+This repository includes all liferay custom development.
