@@ -1,2 +1,2 @@
-# Liferay
-This repository includes all liferay projects.
+# Documents
+This repository includes all the liferay related documents
