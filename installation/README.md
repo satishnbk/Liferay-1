@@ -1,2 +1,2 @@
-# Liferay
-This repository includes all liferay projects.
+# Installation
+This repository refers on how to install liferay
