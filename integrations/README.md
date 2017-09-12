@@ -1,2 +1,2 @@
 # Integrations
-This repository includes all liferay third party integrations.
+This repository includes all liferay third party integrations. test 
